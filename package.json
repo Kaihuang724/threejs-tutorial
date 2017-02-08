@@ -1,0 +1,19 @@
+{
+  "name": "threejs-tutorial",
+  "version": "1.0.0",
+  "description": "Simple Tutorial for Three.JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaihuang724/threejs-tutorial.git"
+  },
+  "author": "Kai Huang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaihuang724/threejs-tutorial/issues"
+  },
+  "homepage": "https://github.com/Kaihuang724/threejs-tutorial#readme"
+}
